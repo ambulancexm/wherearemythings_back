@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
 gunicorn
-openai
 python-dotenv
+sqlalchemy
+openai>=1.40.0
